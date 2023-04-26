@@ -1,4 +1,4 @@
-package com.hugo.booleantype;
+package com.hugo.datatype.booleantype;
 
 import org.junit.Test;
 

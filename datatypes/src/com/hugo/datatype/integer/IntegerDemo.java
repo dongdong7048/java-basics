@@ -1,4 +1,4 @@
-package com.hugo.integer;
+package com.hugo.datatype.integer;
 
 import org.junit.Test;
 

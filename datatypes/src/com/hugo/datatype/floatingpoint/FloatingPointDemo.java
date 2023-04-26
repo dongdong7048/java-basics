@@ -1,4 +1,4 @@
-package com.hugo.floatingpoint;
+package com.hugo.datatype.floatingpoint;
 
 import org.junit.Test;
 

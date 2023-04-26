@@ -1,4 +1,4 @@
-package com.hugo.character;
+package com.hugo.datatype.character;
 
 import org.junit.Test;
 
